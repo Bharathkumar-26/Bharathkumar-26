@@ -6,19 +6,17 @@
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me
-  linked in :
+  Linked in :
   <br /> [src="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BK%2BHVzXISRSmw5XBaPLgaxg%3D%3D"]
- ![v4-460px-Resize-a-GIF-Step-5-Version-2]
-  instagram
+ ![image](https://github.com/user-attachments/assets/36f7766e-7356-4644-9058-06e3e49d96b9)
+Instagram :
   <br />["https://accountscenter.instagram.com/profiles/17841436560302305/"]
-  ("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")
-
+![image](https://github.com/user-attachments/assets/9a588e7d-7638-455a-b88e-58bfd42a37c2)
+ 
  ### I'm code in :
- <img height="50" width="50"![image](https://github.com/user-attachments/assets/f3448d96-d406-459a-a12a-c8ad298cbc6a)
+ <img height="50" width="50"
 
- <a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a><a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a><a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a><a href="https://iconscout.com/icons/mysql" class="text-underline font-size-sm" target="_blank">Mysql</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a><a href="https://iconscout.com/icons/html" class="text-underline font-size-sm" target="_blank">Html</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a><a href="https://iconscout.com/icons/c-file" class="text-underline font-size-sm" target="_blank">C++ File</a> by <a href="https://iconscout.com/contributors/vectors-club" class="text-underline font-size-sm">Vectorsclub933</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a><a href="https://iconscout.com/icons/dbms" class="text-underline font-size-sm" target="_blank">dbms</a> by <a href="https://iconscout.com/contributors/orvipixel" class="text-underline font-size-sm">Orvipixel</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
-
- [! [Leetcode stats]("https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BK%2BHVzXISRSmw5XBaPLgaxg%3D%3D) 
+ 
 
   [![Bharathkumar's github activity graph] [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathkumar-26&bg_color=ffd1d1&color=9e4c98&line=4c9e52&point=413f3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
