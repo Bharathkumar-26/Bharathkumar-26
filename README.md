@@ -8,7 +8,7 @@
 - how to reach me
   linked in :
   <br /> [src="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BK%2BHVzXISRSmw5XBaPLgaxg%3D%3D"]
- ![v4-460px-Resize-a-GIF-Step-5-Version-2](https://github.com/user-attachments/assets/b939bbd0-a633-4192-b810-cc0b1426f89e)
+ ![v4-460px-Resize-a-GIF-Step-5-Version-2]
   instagram
   <br />["https://accountscenter.instagram.com/profiles/17841436560302305/"]
   ("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")
