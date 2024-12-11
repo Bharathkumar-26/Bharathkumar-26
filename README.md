@@ -1,6 +1,6 @@
 # Hi there 👋
 ## It's me Bharathkumar😊🙌
-<img align="right" width="350" height="250"
+<img align="right" width="300" height="200"
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me<br>
@@ -30,7 +30,6 @@
 how to design a modern, scalable, and maintainable application <br>
  ## "DETECTION OF CYBER BULLYING ATTACKS IN INSTAGRAM USING MACHINE LEARNING"
  In this project, we aim to apply machine learning algorithms to detect cyberbullying on Instagram. This involves collecting and preprocessing data from user interactions, extracting relevant features
-![image](https://github.com/user-attachments/assets/df7bcb30-b3a3-4882-a0ac-dd5112f48781)
 
 ## INTERESTS :
   **To learn about full stack web development
