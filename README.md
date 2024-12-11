@@ -1,11 +1,11 @@
-#Hi there 👋
-##It's me Bharathkumar😊🙌
+# Hi there 👋
+## It's me Bharathkumar😊🙌
 <img align="right" width="350" height="250"
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me<br>
 
-  Linked in :<a href="https://www.linkedin.com/in/bharath-kumar-889a45314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIejgaLJwQeKHsXj1wYagcw%3D%3D">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  Linked in : <a href="https://www.linkedin.com/in/bharath-kumar-889a45314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIejgaLJwQeKHsXj1wYagcw%3D%3D">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   
   
 
@@ -21,16 +21,17 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathkumar-26&bg_color=ffd1d1&color=9e4c98&line=4c9e52&point=413f3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
-   #TECHNICAL SKILL 
- **programming language*(Python,Mysql,Html,C++,.Net)
+   ## TECHNICAL SKILL 
+ **programming language*(Python,Mysql,Html,C++,.Net*
 
- #PROJECTS
-  **("spring banking suite")
-  **("detection of cyber bullying attacks in instagram using machine learning")
+ ## PROJECTS
+ ## "SPRING BANKING SUITE"
+ Developing a banking system using Spring Boot provides a comprehensive example of
+how to design a modern, scalable, and maintainable application <br>
+ ## "DETECTION OF CYBER BULLYING ATTACKS IN INSTAGRAM USING MACHINE LEARNING"
+## INTERESTS
+  **To learn about full stack web development
 
-INTERESTS
-  **(To learn about full stack web development)
 
-
-softskills
-**(Communication,Team work & collaboration,Critical Thinking,Time Management)
+## SOFTSKILLS
+**Communication,Team work & collaboration,Critical Thinking,Time Management
