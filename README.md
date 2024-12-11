@@ -1,13 +1,10 @@
 #Hi there 👋
 ##It's me Bharathkumar😊🙌
-<img align="right" width="350" height="250"!(https://github.com/user-attachments/assets/47631931-de2f-4ec7-bc78-dbb169194930)
-
-
+<img align="right" width="350" height="250"
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me
-  Linked in :[src="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BK%2BHVzXISRSmw5XBaPLgaxg%3D%3D"]
- ![image](https://github.com/user-attachments/assets/36f7766e-7356-4644-9058-06e3e49d96b9)
+  Linked in :(https://github.com/user-attachments/assets/36f7766e-7356-4644-9058-06e3e49d96b9)
 Instagram : <br />["https://accountscenter.instagram.com/profiles/17841436560302305/"]
 ![image](https://github.com/user-attachments/assets/9a588e7d-7638-455a-b88e-58bfd42a37c2)
  
