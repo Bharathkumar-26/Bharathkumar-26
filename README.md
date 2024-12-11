@@ -4,9 +4,9 @@
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me
-  Linked in :(https://github.com/user-attachments/assets/36f7766e-7356-4644-9058-06e3e49d96b9)
-Instagram : <br />["https://accountscenter.instagram.com/profiles/17841436560302305/"]
-![image](https://github.com/user-attachments/assets/9a588e7d-7638-455a-b88e-58bfd42a37c2)
+  Linked in :<a href="https://github.com/user-attachments/assets/36f7766e-7356-4644-9058-06e3e49d96b9">
+
+Instagram :<a href="https://accountscenter.instagram.com/profiles/17841436560302305/">![image](https://github.com/user-attachments/assets/9a588e7d-7638-455a-b88e-58bfd42a37c2)
  
  ### I'm code in :
  <img height="50" width="50"
