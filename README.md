@@ -1,6 +1,7 @@
 # Hi there 👋
 ## It's me Bharathkumar😊🙌
-<img align="right" width="300" height="200"
+<img align="right" width="300" height="180" src ="https://github.com/user-attachments/assets/27096524-cc6e-4d04-854e-c238864f1cd4">
+
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I'm currently learning python
 - how to reach me<br>
