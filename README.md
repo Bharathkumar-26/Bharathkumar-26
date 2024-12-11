@@ -21,17 +21,20 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathkumar-26&bg_color=ffd1d1&color=9e4c98&line=4c9e52&point=413f3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
-   ## TECHNICAL SKILL 
+   ## TECHNICAL SKILL :
  **programming language*(Python,Mysql,Html,C++,.Net*
 
- ## PROJECTS
+ ## PROJECTS :
  ## "SPRING BANKING SUITE"
  Developing a banking system using Spring Boot provides a comprehensive example of
 how to design a modern, scalable, and maintainable application <br>
  ## "DETECTION OF CYBER BULLYING ATTACKS IN INSTAGRAM USING MACHINE LEARNING"
-## INTERESTS
+ In this project, we aim to apply machine learning algorithms to detect cyberbullying on Instagram. This involves collecting and preprocessing data from user interactions, extracting relevant features
+![image](https://github.com/user-attachments/assets/df7bcb30-b3a3-4882-a0ac-dd5112f48781)
+
+## INTERESTS :
   **To learn about full stack web development
 
 
-## SOFTSKILLS
+## SOFTSKILLS :
 **Communication,Team work & collaboration,Critical Thinking,Time Management
