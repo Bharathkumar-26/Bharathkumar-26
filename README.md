@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathkumar-26&bg_color=ffd1d1&color=9e4c98&line=4c9e52&point=413f3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  
+ - [![Ashutosh's github activity graph](https://github.com/Bharathkumar-26/github-readme-stats.git)
+ - 
    ## TECHNICAL SKILL :
  **programming language*(Python,Mysql,Html,C++,.Net*
 
