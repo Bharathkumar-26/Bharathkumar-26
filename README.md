@@ -1,4 +1,8 @@
 # Hi there 👋
+
+![Gray White Minimalist Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/25a80581-075d-499c-8761-a97aac50c5a7)
+
+
 ## It's me Bharathkumar😊🙌
 <img align="right" width="300" height="180" src ="https://github.com/user-attachments/assets/27096524-cc6e-4d04-854e-c238864f1cd4">
 
