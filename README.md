@@ -26,9 +26,6 @@
 
  - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathkumar-26)](https://github.com/Bharathkumar-26/github-readme-stats)
 
-   ## TECHNICAL SKILL :
- **programming language*(Python,Mysql,Html,C++,.Net*
-
  ## PROJECTS :
  ## "SPRING BANKING SUITE"
  Developing a banking system using Spring Boot provides a comprehensive example of
