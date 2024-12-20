@@ -8,6 +8,7 @@
 
 - iam currently pursuing B.Tech in Computer Science & Engineering
 - I have a strong interests in coding
+- I'm currently learning python
 - how to reach me<br>
 
   Linked in : <a href="https://www.linkedin.com/in/bharath-kumar-889a45314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIejgaLJwQeKHsXj1wYagcw%3D%3D">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
